@@ -1,6 +1,6 @@
 # Festim Nevzati
 
-**Backend & AI Platform Engineer** — building reliable, financial-grade systems and the platforms that run modern AI in production.
+**Principal Software Engineer · Solutions Architect · AI Platform Engineer** — building reliable, financial-grade systems and the production AI platforms that run on top of them.
 
 I design and operate backend architectures and AI platforms for enterprise SaaS: clean, testable service layers in **Laravel** and **Python/FastAPI**, LLM tooling and orchestration, and the cloud and data infrastructure underneath. I care about systems that are correct under load, observable in production, and maintainable by the team that inherits them.
 
